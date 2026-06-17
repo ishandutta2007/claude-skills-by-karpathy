@@ -1,0 +1,19 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d4a5ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7d5fff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" rx="20" ry="20" fill="url(#grad)" />
+  <text x="50%" y="45%" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white">
+    Karpathy-Inspired Claude Skills 🚀
+  </text>
+  <text x="50%" y="70%" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white" opacity="0.9">
+    Premium guidelines to supercharge your AI coding experience
+  </text>
+  <rect x="400" y="140" width="200" height="30" rx="15" ry="15" fill="rgba(255,255,255,0.2)" />
+  <text x="50%" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Modular • Surgical • Simple • Goal-Driven
+  </text>
+</svg>
