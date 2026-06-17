@@ -4,9 +4,9 @@
 >
 > Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy)
 
-A collection of premium **Claude Skills** to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
+A collection of modular, premium **Claude Skills** to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
 
-English | [简体中文](./README.zh.md)
+English | [简体中文](./translations/README_ZH.md)
 
 ## The Problems
 
@@ -127,7 +127,7 @@ curl https://raw.githubusercontent.com/forrestchang/claude-skills-by-karpathy/ma
 
 ## Using with Cursor
 
-This repository includes a committed Cursor project rule ([`.cursor/rules/claude-skills-karpathy.mdc`](.cursor/rules/claude-skills-karpathy.mdc)) so the same **Claude Skills** apply when you open the project in Cursor. See **[CURSOR.md](CURSOR.md)** for setup.
+This repository includes a committed Cursor project rule ([`.cursor/rules/claude-skills-karpathy.mdc`](.cursor/rules/claude-skills-karpathy.mdc)) so the same **Claude Skills** apply when you open the project in Cursor. See **[docs/cursor-setup.md](docs/cursor-setup.md)** for setup.
 ## Key Insight
 
 From Andrej:

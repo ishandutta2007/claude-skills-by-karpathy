@@ -6,7 +6,7 @@
 
 一系列优质的 **Claude Skills**，用于改善 Claude Code 的行为，源自 [Andrej Karpathy 的观察](https://x.com/karpathy/status/2015883857489522876) 关于 LLM 编码陷阱的总结。
 
-[English](./README.md) | 简体中文
+[English](../README.md) | 简体中文
 
 ## 问题所在
 
@@ -127,7 +127,7 @@ curl https://raw.githubusercontent.com/forrestchang/claude-skills-by-karpathy/ma
 
 ## 在 Cursor 中使用
 
-本仓库包含一个已提交的 Cursor 项目规则 ([`.cursor/rules/claude-skills-karpathy.mdc`](.cursor/rules/claude-skills-karpathy.mdc))，因此在 Cursor 中打开项目时同样适用这些 **Claude Skills**。详情请参见 **[CURSOR.md](CURSOR.md)**。
+本仓库包含一个已提交的 Cursor 项目规则 ([`.cursor/rules/claude-skills-karpathy.mdc`](.cursor/rules/claude-skills-karpathy.mdc))，因此在 Cursor 中打开项目时同样适用这些 **Claude Skills**。详情请参见 **[../docs/cursor-setup.md](../docs/cursor-setup.md)**。
 
 ## 核心洞察
 

@@ -1,6 +1,6 @@
-# Claude Skills Examples
+# Modular Claude Skills Examples
 
-Real-world code examples demonstrating the four **Claude Skills** principles. Each example shows what LLMs commonly do wrong and how these premium skills fix it.
+This document provides real-world code examples for each of the modular **Claude Skills** in this repository.
 
 ---
 
