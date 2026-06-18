@@ -21,7 +21,7 @@ Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy) 🐦
 
 A collection of **modular, premium Claude Skills** designed to drastically improve Claude Code behavior and reduce common LLM coding mistakes. These principles are derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on AI coding pitfalls.
 
-English | [简体中文](./translations/README_ZH.md) | [हिन्दी](./translations/README_HI.md) 🇮🇳
+English | [简体中文](./translations/README_ZH.md) | [हिन्दी](./translations/README_HI.md) | [বাংলা](./translations/README_BN.md) | [मराठी](./translations/README_MR.md) | [తెలుగు](./translations/README_TE.md) | [தமிழ்](./translations/README_TA.md) | [ગુજરાતી](./translations/README_GU.md) | [اردو](./translations/README_UR.md) | [ಕನ್ನಡ](./translations/README_KN.md)
 
 ---
 
