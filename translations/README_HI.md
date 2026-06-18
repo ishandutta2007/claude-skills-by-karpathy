@@ -21,7 +21,7 @@
 
 Claude Code के व्यवहार में सुधार करने और सामान्य LLM कोडिंग गलतियों को कम करने के लिए डिज़ाइन किए गए **मॉड्यूलर, प्रीमियम Claude Skills** का एक संग्रह। ये सिद्धांत AI कोडिंग की कमियों पर [Andrej Karpathy के अवलोकनों](https://x.com/karpathy/status/2015883857489522876) से लिए गए हैं।
 
-[English](../README.md) | [简体中文](./README_ZH.md) | हिन्दी 🇮🇳
+[English](../README.md) | [简体中文](./README_ZH.md) | हिन्दी | [বাংলা](./README_BN.md) | [मराठी](./README_MR.md) | [తెలుగు](./README_TE.md) | [தமிழ்](./README_TA.md) | [ગુજરાતી](./README_GU.md) | [اردو](./README_UR.md) | [ಕನ್ನಡ](./README_KN.md)
 
 ---
 

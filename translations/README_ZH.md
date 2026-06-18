@@ -6,7 +6,7 @@
 
 一系列优质的 **Claude Skills**，用于改善 Claude Code 的行为，源自 [Andrej Karpathy 的观察](https://x.com/karpathy/status/2015883857489522876) 关于 LLM 编码陷阱的总结。
 
-[English](../README.md) | 简体中文 | [हिन्दी](./README_HI.md) 🇮🇳
+[English](../README.md) | 简体中文 | [हिन्दी](./README_HI.md) | [বাংলা](./README_BN.md) | [मराठी](./README_MR.md) | [తెలుగు](./README_TE.md) | [தமிழ்](./README_TA.md) | [ગુજરાતી](./README_GU.md) | [اردو](./README_UR.md) | [ಕನ್ನಡ](./README_KN.md)
 
 ## 问题所在
 
